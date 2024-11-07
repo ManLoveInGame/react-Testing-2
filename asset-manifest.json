@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/erb-react-ex1/static/css/main.682bcf6b.css",
-    "main.js": "/erb-react-ex1/static/js/main.0ef1fe61.js",
-    "static/js/453.e2e32d40.chunk.js": "/erb-react-ex1/static/js/453.e2e32d40.chunk.js",
-    "static/media/tour6.jpg": "/erb-react-ex1/static/media/tour6.13f376193487514b368d.jpg",
-    "static/media/hero.webp": "/erb-react-ex1/static/media/hero.8cb377a1c689ed3e3b26.webp",
-    "static/media/tour5.jpg": "/erb-react-ex1/static/media/tour5.cd3f669006f502d388c3.jpg",
-    "static/media/tour7.jpg": "/erb-react-ex1/static/media/tour7.80d4945989515004220b.jpg",
-    "static/media/about.avif": "/erb-react-ex1/static/media/about.a45e8964ce4546685119.avif",
-    "static/media/tour4.jpg": "/erb-react-ex1/static/media/tour4.6dc9760f0753f9f4c7d2.jpg",
-    "index.html": "/erb-react-ex1/index.html",
-    "main.682bcf6b.css.map": "/erb-react-ex1/static/css/main.682bcf6b.css.map",
-    "main.0ef1fe61.js.map": "/erb-react-ex1/static/js/main.0ef1fe61.js.map",
-    "453.e2e32d40.chunk.js.map": "/erb-react-ex1/static/js/453.e2e32d40.chunk.js.map"
+    "main.css": "/react-Testing-2/static/css/main.b74152ec.css",
+    "main.js": "/react-Testing-2/static/js/main.15c695e6.js",
+    "static/js/453.e2e32d40.chunk.js": "/react-Testing-2/static/js/453.e2e32d40.chunk.js",
+    "static/media/tour6.jpg": "/react-Testing-2/static/media/tour6.13f376193487514b368d.jpg",
+    "static/media/hero.webp": "/react-Testing-2/static/media/hero.8cb377a1c689ed3e3b26.webp",
+    "static/media/tour5.jpg": "/react-Testing-2/static/media/tour5.cd3f669006f502d388c3.jpg",
+    "static/media/tour7.jpg": "/react-Testing-2/static/media/tour7.80d4945989515004220b.jpg",
+    "static/media/about.avif": "/react-Testing-2/static/media/about.a45e8964ce4546685119.avif",
+    "static/media/tour4.jpg": "/react-Testing-2/static/media/tour4.6dc9760f0753f9f4c7d2.jpg",
+    "index.html": "/react-Testing-2/index.html",
+    "main.b74152ec.css.map": "/react-Testing-2/static/css/main.b74152ec.css.map",
+    "main.15c695e6.js.map": "/react-Testing-2/static/js/main.15c695e6.js.map",
+    "453.e2e32d40.chunk.js.map": "/react-Testing-2/static/js/453.e2e32d40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.682bcf6b.css",
-    "static/js/main.0ef1fe61.js"
+    "static/css/main.b74152ec.css",
+    "static/js/main.15c695e6.js"
   ]
 }
