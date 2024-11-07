@@ -15,7 +15,7 @@ function AboutMe() {
 
         <div className="section-center about-center">
             <div className="about-img">
-                <img src={about} className="about-photo" alt="about image" />
+                <img src={about} className="about-photo" alt="about" />
             </div>
             <article className="about-info">
                 <h3>explore the difference</h3>
